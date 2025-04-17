@@ -134,5 +134,5 @@ Your GitHub repo must include:
     * LoC lifecycle steps
     * Chaincode queries
     * Role-based access control working as
-* Submit screenshots to SubmissionImages folder'
+* Submit screenshots to SubmissionImages folder
 
