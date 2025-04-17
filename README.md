@@ -4,7 +4,7 @@
 
 Implement a blockchain-based Letter of Credit (LoC) management system using Hyperledger Fabric to ensure transparency, authenticity, and efficiency in international trade financing. Develop a Hyperledger Fabric network and smart contract ( `locChaincode.go` ) to manage the lifecycle of Letters of Credit between real-world trade participants.
 
-## You Will Accomplish
+## You are required to
 
 * Design a Fabric network with real trade participants (importers, exporters,banks).
 * Implement **chaincode** to handle LoC issuance, acceptance, shipment, document submission, and payment release.
@@ -133,5 +133,6 @@ Your GitHub repo must include:
   
     * LoC lifecycle steps
     * Chaincode queries
-    * Role-based access control working as 
+    * Role-based access control working as
+* Submit screenshots to SubmissionImages folder'
 
